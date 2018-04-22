@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="oauth_entity_profile_scope">
+    <oauth_entity_profile_scope action="INSERT_OR_UPDATE">
+        <oauth_entity_profile display_value="GitHub Synk default_profile">8a6d82fe4f211300c5f11b818110c7c3</oauth_entity_profile>
+        <oauth_entity_scope display_value="Repositories Public and private">5c9d8a7a4f611300c5f11b818110c7f5</oauth_entity_scope>
+        <sys_class_name>oauth_entity_profile_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-22 11:21:57</sys_created_on>
+        <sys_id>d4bd8af24f611300c5f11b818110c748</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8a6d82fe4f211300c5f11b818110c7c3</sys_name>
+        <sys_package display_value="GitHub Synk" source="x_9187_github_synk">41eeb9ba4f211300c5f11b818110c78a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Synk">41eeb9ba4f211300c5f11b818110c78a</sys_scope>
+        <sys_update_name>oauth_entity_profile_scope_d4bd8af24f611300c5f11b818110c748</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-22 11:21:57</sys_updated_on>
+    </oauth_entity_profile_scope>
+</record_update>
