@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">b69ba6764fe11300c5f11b818110c7ad</sp_column>
+        <sp_widget display_value="Github Synk Home Widget">905b2eb64fe11300c5f11b818110c724</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-22 13:32:21</sys_created_on>
+        <sys_id>e4ab22b64fe11300c5f11b818110c7fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GitHub Synk" source="x_9187_github_synk">41eeb9ba4f211300c5f11b818110c78a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Synk">41eeb9ba4f211300c5f11b818110c78a</sys_scope>
+        <sys_update_name>sp_instance_e4ab22b64fe11300c5f11b818110c7fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-22 13:32:21</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=e4ab22b64fe11300c5f11b818110c7fb"/>
+</record_update>

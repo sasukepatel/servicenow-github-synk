@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="ghs_home">c12be6b64fe11300c5f11b818110c756</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page display_value="landing">36c61807cb31120000f8d856634c9ca9</login_page>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-22 13:29:18</sys_created_on>
+        <sys_id>e8da62b64fe11300c5f11b818110c792</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Github Synk</sys_name>
+        <sys_package display_value="GitHub Synk" source="x_9187_github_synk">41eeb9ba4f211300c5f11b818110c78a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Synk">41eeb9ba4f211300c5f11b818110c78a</sys_scope>
+        <sys_update_name>sp_portal_e8da62b64fe11300c5f11b818110c792</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-22 13:30:48</sys_updated_on>
+        <theme display_value="Stock - High Contrast">f84873986711320023c82e08f585ef6a</theme>
+        <title>Github Synk</title>
+        <url_suffix>github</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=e8da62b64fe11300c5f11b818110c792"/>
+</record_update>
